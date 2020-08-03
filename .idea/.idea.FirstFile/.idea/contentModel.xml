@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FirstFile" t="IncludeRecursive">
+        <e p="ArrayExample.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ControlFlow.cs" t="Include" />
+        <e p="DateAndTimes.cs" t="Include" />
+        <e p="FilesAndDirectory.cs" t="Include" />
+        <e p="FirstClass.cs" t="Include" />
+        <e p="FirstFile.csproj" t="IncludeRecursive" />
+        <e p="Languages.cs" t="Include" />
+        <e p="MyArray.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RgbColor.cs" t="Include" />
+        <e p="TextClass.cs" t="Include" />
+        <e p="TypeReferenceValueType.cs" t="Include" />
+      </e>
+      <e p="FirstFile.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_FirstFile.2108112528.00" t="ExcludeRecursive" />
+  </component>
+</project>

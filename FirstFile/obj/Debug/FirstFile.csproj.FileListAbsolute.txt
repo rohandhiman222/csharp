@@ -1,0 +1,5 @@
+/Users/mac/CSharpProject/FirstFile/FirstFile/bin/Debug/FirstFile.exe
+/Users/mac/CSharpProject/FirstFile/FirstFile/bin/Debug/FirstFile.pdb
+/Users/mac/CSharpProject/FirstFile/FirstFile/obj/Debug/FirstFile.csprojAssemblyReference.cache
+/Users/mac/CSharpProject/FirstFile/FirstFile/obj/Debug/FirstFile.exe
+/Users/mac/CSharpProject/FirstFile/FirstFile/obj/Debug/FirstFile.pdb

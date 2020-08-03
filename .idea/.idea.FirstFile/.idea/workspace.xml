@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3a4a540-f1dc-4966-a388-82e3898e827a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FirstFile/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/MyArray.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/FirstClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/TypeReferenceValueType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/ControlFlow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B814B509-D4AD-406F-B40C-6C93E38929E7/57/Byte.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/FilesAndDirectory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/RgbColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/TextClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/ArrayExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/DateAndTimes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstFile/Languages.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FirstFile/FirstClass.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/RgbColor.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/ArrayExample.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/Languages.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/Program.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/TypeReferenceValueType.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/ControlFlow.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/MyArray.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/DateAndTimes.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/TextClass.cs" />
+        <option value="$PROJECT_DIR$/FirstFile/FilesAndDirectory.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XKgiMNSeni8D1aaWldslUGHUSv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstFile" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FirstFile/FirstFile.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3a4a540-f1dc-4966-a388-82e3898e827a" name="Default Changelist" comment="" />
+      <created>1580800326208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580800326208</updated>
+      <workItem from="1580800331057" duration="19531000" />
+      <workItem from="1581492277914" duration="600000" />
+      <workItem from="1582194609055" duration="11534000" />
+      <workItem from="1595522313833" duration="788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom" timestamp="1581008986382">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1581008986382" />
+    <state width="1238" height="184" key="GridCell.Tab.0.center" timestamp="1581008986381">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1581008986381" />
+    <state width="1238" height="184" key="GridCell.Tab.0.left" timestamp="1581008986380">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1581008986380" />
+    <state width="1238" height="184" key="GridCell.Tab.0.right" timestamp="1581008986381">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1581008986381" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1580800734094">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1280.736@0.23.1280.736" timestamp="1580800734094" />
+    <state x="303" y="80" width="672" height="678" key="search.everywhere.popup" timestamp="1582222109023">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="303" y="80" width="672" height="678" key="search.everywhere.popup/0.23.1280.736@0.23.1280.736" timestamp="1582222109023" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/FirstFile/Program.cs</url>
+          <line>249</line>
+          <properties documentPath="$PROJECT_DIR$/FirstFile/Program.cs" initialLine="7">
+            <startOffsets>
+              <option value="7713" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7714" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
